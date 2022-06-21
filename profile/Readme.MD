@@ -1,4 +1,4 @@
-![Azoria Logo](https://azoria.com.au/assets/logos/github_logo.png)
+![Azoria Logo]([https://azoria.com.au/assets/logos/github_logo.png](https://azoria.au/img/logo.png))
 
 
 
