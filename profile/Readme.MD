@@ -1,4 +1,4 @@
-![Azoria Logo](https://azoria.au/logos/Logo-Dark-Blue-Outline.png)
+![Azoria Logo](https://assets.azoria.au/logos/Logo-Dark-Blue-Outline.png)
 
 **Azoria** provide's custom software and development solutions to cryptocurrency projects and alike. Including but not limited to:
 
